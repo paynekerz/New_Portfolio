@@ -37,7 +37,7 @@ export default function Navbar() {
         <AppBar position="static" className={classes.background}>
           <Toolbar>
             <div>
-              <img src={Logo} height="100" width="100"/>
+              <img src={Logo} height="100" width="100" alt="Logo"/>
             </div>
             <Typography variant="h4" className={classes.title}>
               Payne Kerz
