@@ -11,12 +11,12 @@ import PropTypes from 'prop-types';
 const useStyles = makeStyles((theme) => ({
     root: {
       flexGrow: 1,
-      marginTop: "230px"
+      marginTop: "200px"
     },
     appBar: {
           top: "auto",
           bottom: 0,
-          backgroundColor: "#1e81b0"
+          backgroundColor: "#000000"
     },
   }));
 
