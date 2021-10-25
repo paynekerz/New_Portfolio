@@ -1,3 +1,12 @@
+.background {
+    background-image: url(../wallpaper-mania.com_High_resolution_wallpaper_background_ID_77701281364.jpg);
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
 .flexDiv {
     display: flex;
     flex-direction: row;
@@ -10,6 +19,13 @@
     padding: 50px;
 }
 
+.aboutCont {
+  border-radius: 25px;
+  background: black;
+  padding: 5px;
+}
+
 .aboutDesc {
     font-size: 1.3rem;
+    color: white;
 }
