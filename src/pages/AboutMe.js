@@ -19,7 +19,7 @@ export default function AboutMe() {
             <Container>
             <div className="flexDiv">
                 <div className="aboutPic">
-                    <img src="/images/profile-pic.jpeg" className={classes.profile} alt=""/>
+                    <img src="/images/IMG_6690.jpg" className={classes.profile} alt=""/>
                 </div>
                 <div className="aboutCont">
                     <div className="aboutDesc">
